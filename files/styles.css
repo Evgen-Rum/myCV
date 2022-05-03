@@ -32,6 +32,11 @@ a:visited {
     border-radius: 20px;
     box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
 }
+
+.info {
+    margin-bottom: 20px;
+}
+
 .info p {
     color: #86898f;
     margin: 0;
@@ -90,4 +95,8 @@ max-width: 750px;
     padding: 15px 20px;
     margin-bottom: 20px;
     border-radius: 20px
+}
+
+.card h2 {
+    margin-bottom: 10px;
 }
