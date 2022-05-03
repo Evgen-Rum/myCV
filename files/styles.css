@@ -118,3 +118,15 @@ max-width: 750px;
 .table {
     width: 100%;
 }
+
+.table td {
+    padding-bottom: 10px;
+}
+
+.table td:nth-child(2) {
+    color: #86898f;
+}
+
+/*.table tr:nth-child(odd) {*/
+/*    background: red;*/
+/*}*/
